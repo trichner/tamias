@@ -1,3 +1,3 @@
-[submodule "chipmunk"]
-	path = chipmunk
+[submodule "Chipmunk2D"]
+	path = Chipmunk2D
 	url = git@github.com:trichner/Chipmunk2D.git
